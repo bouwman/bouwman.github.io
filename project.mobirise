@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Tassilo Bouwman",
-    "currentPage": "index.html",
+    "currentPage": "hikingclub.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -49,7 +49,7 @@
       "settings": {
         "main": true,
         "title": "Tassilo",
-        "meta_descr": "",
+        "meta_descr": "Design portfolio of Tassilo Bouwman",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
@@ -799,9 +799,9 @@
         }
       ]
     },
-    "page1.html": {
+    "hikingclub.html": {
       "settings": {
-        "meta_descr": "Web Page Builder Description",
+        "meta_descr": "Hiking Club Rebranding Design Process",
         "title": "Hiking Club",
         "order": 1
       },
@@ -1650,9 +1650,9 @@
         }
       ]
     },
-    "page2.html": {
+    "layoutresearch.html": {
       "settings": {
-        "meta_descr": "Web Page Builder Description",
+        "meta_descr": "Design and development process of iOS App for my MSc project",
         "title": "Layout Research",
         "order": 2
       },
@@ -2413,9 +2413,9 @@
         }
       ]
     },
-    "page3.html": {
+    "naviicompass.html": {
       "settings": {
-        "meta_descr": "Web Page Builder Description",
+        "meta_descr": "Designing a feedback system for an urban farm community",
         "title": "NaviiCompass",
         "order": 3
       },
@@ -3339,9 +3339,9 @@
         }
       ]
     },
-    "page4.html": {
+    "motioncontrol.html": {
       "settings": {
-        "meta_descr": "Web Page Builder Description",
+        "meta_descr": "Hybrid UX Design of a wearable device to control smart home",
         "title": "Motion Control",
         "order": 4
       },
@@ -4177,9 +4177,9 @@
         }
       ]
     },
-    "page5.html": {
+    "pollutioncity.html": {
       "settings": {
-        "meta_descr": "Web Page Builder Description",
+        "meta_descr": "Designing a serious game to rise awareness of air pollution",
         "title": "Pollution City",
         "order": 5
       },
